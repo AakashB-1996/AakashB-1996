@@ -8,7 +8,7 @@ Some of my favorite projects:
 - [Bank-Marketing](https://github.com/AakashB-1996/Bank-Marketing)
 - [strava-api](https://github.com/AakashB-1996/strava-api)
 
-Alongside working on various projects, I love to improve my SQL and Python skills with super fun tools like [InterviewMaster](https://www.interviewmaster.ai/home?companies=3%2C5%2C8%2C10%2C12&difficulties=medium&share=false) . Please do check it out!!!
+Alongside working on various projects, I love to improve my SQL and Python skills with super fun tools like [InterviewMaster](https://www.interviewmaster.ai/) . Please do check it out!!!
 
 You can find more about my work and connect with me on [LinkedIn](https://www.linkedin.com/in/aakash-bolisetty/). 
 
